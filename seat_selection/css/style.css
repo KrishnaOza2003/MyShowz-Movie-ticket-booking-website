@@ -10,7 +10,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 	--theme-color: #21174a;
 	--theme-yellow: #fac70b;
 	--theme-rose: #df0e62;
-	--theme-title: #0c0f0a;
+	--theme-blue: #0c0f0a;
 	--theme-nav: #262626;
 	--theme-dark: #111;
 	--theme-lite: #f6f6f6;
@@ -33,7 +33,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 	--theme-lite: #222;
 	--theme-color: #21174a;
 	--theme-yellow: #fac70b;
-	--theme-title: rgb(255, 255, 255);
+	--theme-blue: rgb(255, 255, 255);
 	--theme-nav: rgb(255, 255, 255);
 	--theme-white: #fff;
 	--theme-bg: #0c0f0a;
@@ -254,7 +254,7 @@ p.copy_rights a:hover {
 }
 
 div.seatCharts-cell {
-	color: var(--theme-title);
+	color: var(--theme-blue);
 	height: 29px;
 	width: 29px;
 	line-height: 27px;
@@ -313,7 +313,7 @@ ul.seatCharts-legendList {
 .seatCharts-legendItem {
 	margin-top: 10px;
 	line-height: 2;
-	color: var(--theme-title);
+	color: var(--theme-blue);
 }
 
 span.seatCharts-legendDescription {
@@ -401,7 +401,7 @@ ul.book-left li {
 .book-right li {
     font-size: 0.9rem;
     font-weight: 500;
-    color: var(--theme-title);
+    color: var(--theme-blue);
     line-height: 1.9em;
 }
 

@@ -74,7 +74,7 @@ h2 {
 
 #form .previous-step:hover,
 #form .previous-step:focus {
-	background-color: var(--theme-title);
+	background-color: var(--theme-blue);
 	color: var(--theme-bg)
 }
 

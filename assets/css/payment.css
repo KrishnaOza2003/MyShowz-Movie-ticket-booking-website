@@ -118,7 +118,7 @@ input[type=text] {
 label {
   margin-bottom: 10px;
   display: block;
-  color: var(--theme-title);
+  color: var(--theme-blue);
   float: left;
 }
 

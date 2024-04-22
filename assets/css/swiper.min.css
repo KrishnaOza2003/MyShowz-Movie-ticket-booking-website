@@ -64,7 +64,7 @@
     margin: 0 auto
 }
 #swiper-container-h1{
-    color: var(--theme-title);
+    color: var(--theme-blue);
 }
 .swiper-slide {
     flex-shrink: 0;
@@ -658,7 +658,7 @@ button.swiper-pagination-bullet {
     font-size: 20px;
     text-align: center;
     line-height: 20px;
-    color: var(--theme-title);
+    color: var(--theme-blue);
     margin-top: 10px;
   }
   
@@ -685,7 +685,7 @@ button.swiper-pagination-bullet {
   }
   
   .p-sm a i {
-    color: var(--theme-title);
+    color: var(--theme-blue);
     line-height: 30px;
   }
   
